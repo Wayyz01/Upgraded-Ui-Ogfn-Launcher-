@@ -5,3 +5,5 @@ Feel Free to Use this Launcher for your Ogfn Project!
 All Main creds to Ghoscubert and Pablo
 
 This Launcher is going to get updated weekly!
+
+tutorial: https://www.youtube.com/watch?v=xgBB9eUeQSg
