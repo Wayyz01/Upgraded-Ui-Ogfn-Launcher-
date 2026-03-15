@@ -7,3 +7,5 @@ All Main creds to Ghoscubert and Pablo
 This Launcher is going to get updated weekly!
 
 tutorial: https://www.youtube.com/watch?v=xgBB9eUeQSg
+
+[for custom launcher dm wayzz_111 on discord!]
